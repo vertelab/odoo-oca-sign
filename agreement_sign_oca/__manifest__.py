@@ -4,7 +4,7 @@
     "name": "Agreement Sign Oca",
     "version": "18.0.1.1.0",
     "category": "Agreement",
-    "website": "https://github.com/OCA/sign",
+    "website": "https://vertel.se/apps/odoo-oca-sign/agreement_sign_oca",
     "author": "APSL Nagarro, Odoo Community Association (OCA)",
     "license": "AGPL-3",
     "depends": ["sign_oca", "agreement_legal"],
